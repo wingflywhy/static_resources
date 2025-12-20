@@ -1,0 +1,31 @@
+# macOS系统文件
+.DS_Store
+
+# 数据转储目录
+dumping/
+
+# 编辑器目录和文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+Thumbs.db
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+
+# 构建产物
+build/
+dist/
+
+# 依赖目录
+node_modules/
+vendor/
